@@ -1,0 +1,1 @@
+alert('barata são legais');
